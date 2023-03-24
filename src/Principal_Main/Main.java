@@ -24,8 +24,8 @@ public class Main {
     public static String tema_11 ="*  TEMA 11.  DISTRIBUCIÓN DE APLICACIONES.\n";
     public static String tema_12 ="*  TEMA 12.  REALIZACIÓN DE PRUEBAS.\n";
     public static String tema_13 ="*  TEMA 13.  DESARROLLO DE INTERFACES EN ANDROID I.\n";
-    public static String tema_14 ="*  TEMA 14.  \n";
-    public static String tema_15 ="*  TEMA 15.  \n";
+    public static String tema_14 ="*  TEMA 14.  DESARROLLO DE INTERFACES EN ANDROID II.\n";
+    public static String tema_15 ="*  TEMA 15.  DESARROLLO DE INTERFACES PARA IOS.\n";
 
     public static void main(String[] args)  {
         
